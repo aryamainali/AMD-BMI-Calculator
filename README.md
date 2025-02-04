@@ -5,10 +5,10 @@ This is a **simple and user-friendly BMI Calculator** app developed using **Kotl
 ## 🚀 Features
 ✔️ **Simple and user-friendly interface**  
 ✔️ **Calculates BMI** and displays the result in categories:  
-- 🟢 **Underweight**
-- 🟡 **Normal weight**
-- 🟠 **Overweight**
-- 🔴 **Obese**
+- 🟤 **Underweight**  
+- 🟢 **Normal weight**  
+- 🟣 **Overweight**  
+- 🔴 **Obese**  
 
 
 ## 🔧 Installation
