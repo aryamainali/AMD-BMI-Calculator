@@ -24,5 +24,5 @@ Usage:
 Screenshot
 See how the **BMI Calculator** app looks in action:
 
-<img src="https://github.com/user-attachments/assets/aab0bf5a-564b-4745-8ced-edf791042646" alt="BMI Calculator App" height="800" width="600"/>
+<img src="https://github.com/user-attachments/assets/aab0bf5a-564b-4745-8ced-edf791042646" alt="BMI Calculator App" height="900" width="600"/>
 
