@@ -28,4 +28,4 @@ git clone https://github.com/aryamainali/AMD-BMI-Calculator.git
 📸 Screenshot
 See how the BMI Calculator app looks in action:
 
-https://raw.githubusercontent.com/aryamainali/AMD-BMI-Calculator/refs/heads/development/Screenshot%202025-02-04%20145927.png
+![BMI Calculator App](https://raw.githubusercontent.com/aryamainali/AMD-BMI-Calculator/refs/heads/development/Screenshot%202025-02-04%20145927.png)
