@@ -10,6 +10,7 @@ This is a **simple and user-friendly BMI Calculator** app developed using **Kotl
 - 🟠 **Overweight**
 - 🔴 **Obese**
 
+
 ## 🔧 Installation
 To set up the project on your local machine:
 
@@ -24,7 +25,7 @@ git clone https://github.com/aryamainali/AMD-BMI-Calculator.git
 2️⃣ Enter your height and weight in the respective fields.
 3️⃣ Tap on the Calculate BMI button.
 4️⃣ View the result and its corresponding category.
-
+```
 📸 Screenshot
 See how the BMI Calculator app looks in action:
 
